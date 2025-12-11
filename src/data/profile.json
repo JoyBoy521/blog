@@ -1,0 +1,20 @@
+{
+  "name": "STEWIE.G",
+  "role": "WORLD DOMINATOR",
+  "avatar": "https://guangduang.com/upload/jiaozi.png",
+  "bio": "// Victory is mine! 沉迷于时间机器与射线枪的邪恶天才。",
+  "github": "https://github.com",
+  "twitter": "https://twitter.com",
+  "email": "stewie@familyguy.com",
+  "theme": "stewie",
+  "socials": [
+    {
+      "platform": "github",
+      "url": "https://github.com"
+    },
+    {
+      "platform": "mail",
+      "url": "1305419057@qq.com"
+    }
+  ]
+}
