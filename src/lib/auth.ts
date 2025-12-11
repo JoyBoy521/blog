@@ -6,8 +6,8 @@ const SECRET_KEY = new TextEncoder().encode(
   process.env.AUTH_SECRET || 'cyber-space-high-security-protocol-key-v1'
 );
 
-// 默认密码: Cyber2077! 
-export const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || 'hei989860ke.';
+// 默认密码: 123456
+export const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || '123456';
 
 export async function encrypt(payload: any) {
   return await new SignJWT(payload)
